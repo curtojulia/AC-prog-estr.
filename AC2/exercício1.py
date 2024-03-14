@@ -26,7 +26,6 @@ def calcula_salario(num_horas, valor_hora, irpf = 0.275):
     return salario_liquido
 
 
-
 def main():
     print(eq_seg_grau(2, 16, 3))
     print(bissexto(2024))
