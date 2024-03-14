@@ -1,5 +1,5 @@
 '''
-Atividade complementar 1
+Atividade complementar 2
 Programação Estruturada 
 Júlia Dominguez Curto 
 Exercício 1
