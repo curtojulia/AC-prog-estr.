@@ -5,8 +5,6 @@ Júlia Curto
 """
 import random 
 
-
-
 def main():
     vida_avent = 100
     ataq_avent = random.randint(10,20)
@@ -31,13 +29,5 @@ def main():
         print("Você venceu!")
     elif vida_avent <= 0:
         print("Você perdeu!")
-
-
-
-
-
-
-
-
 
 main() 
